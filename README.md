@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # React-shop
-신발 쇼핑몰
+Shoe-shop made with React
 >>>>>>> 3bfaf68ddbf8779650d5fac172229a7ea6c9a09e
